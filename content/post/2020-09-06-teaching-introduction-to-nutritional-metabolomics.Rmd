@@ -1,0 +1,14 @@
+---
+title: 'Teaching: Introduction to Nutritional Metabolomics'
+author: Tu Hu
+date: '2020-09-06'
+slug: teaching-introduction-to-nutritional-metabolomics
+categories:
+  - teaching
+  - metabolomics
+tags:
+  - metabolomics
+  - teaching
+---
+
+Introduction to Nutritional Metabolomics 

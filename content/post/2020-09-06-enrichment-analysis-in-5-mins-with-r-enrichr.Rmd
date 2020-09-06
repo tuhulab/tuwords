@@ -1,0 +1,14 @@
+---
+title: Enrichment Analysis in 5 min with R (enrichR)
+author: Tu Hu
+date: '2020-09-06'
+slug: enrichment-analysis-in-5-min-with-r-enrichr
+categories:
+  - bioinformatics
+  - tips
+tags:
+  - tips
+  - bioinformatics
+---
+
+I'll show you show to perform an enrichment analysis in 5 min with R

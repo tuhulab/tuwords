@@ -44,3 +44,8 @@ docs/
 
 # translation temp files
 po/*~
+.Rproj.user/FE1EC5E4/sources/s-B6E5A17F/E8478ED5-contents
+.Rproj.user/FE1EC5E4/sources/s-B6E5A17F/E8478ED5
+
+# ignore
+public/
