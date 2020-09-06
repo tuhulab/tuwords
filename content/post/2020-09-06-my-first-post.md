@@ -1,7 +1,7 @@
 ---
 title: My first post
 author: Tu Hu
-date: '2020-09-06'
+date: '2020-09-05'
 slug: my-first-post
 ---
 

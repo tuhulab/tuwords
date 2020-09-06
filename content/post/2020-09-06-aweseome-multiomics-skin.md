@@ -1,7 +1,7 @@
 ---
 title: Aweseome Multiomics Skin
 author: Tu Hu
-date: '2020-01-01'
+date: '2020-09-06'
 categories:
   - knowledge base
   - multi-omics
@@ -12,6 +12,6 @@ tags:
 slug: aweseome-multiomics-skin
 ---
 
-I'm maintaining a knowledge base [Awesome Multi-omics Skin](https://github.com/tuhulab/awesome-multiomics-skin). I collect and briefly summarize the dermatological studies, which use omics or multi-omics technologies, including genomics, transcriptomics, proteomics, metabolomics, and microbiome data.
+I'm maintaining a knowledge base [Awesome Multi-omics Skin](https://github.com/tuhulab/awesome-multiomics-skin). I collect and briefly summarize all latest dermatological studies, which use omics (including multi-omics) and bioinformatics techniques.
 
-This knowledge base gets technical support from my institute's scientific information department. I sincerely acknowledge their help.
+The scientific informatics department of my institute offers support for collecting the information source. I sincerely acknowledge their help.
