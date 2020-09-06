@@ -5,7 +5,7 @@ title: About
 
 Tu shares his words (TuWords). 
 
-I am studying my PhD at a Danish phamacuetical company and University of Copenhagen.
+I am studying my PhD at University of Copenhagen and working at the research sector of a Danish pharmaceutical company.
 
 I share science, medicine, programming and my experience in my blog.
 
