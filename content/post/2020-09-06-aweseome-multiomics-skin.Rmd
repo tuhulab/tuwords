@@ -14,4 +14,4 @@ slug: aweseome-multiomics-skin
 
 I'm maintaining a knowledge base [Awesome Multi-omics Skin](https://github.com/tuhulab/awesome-multiomics-skin). I collect and briefly summarize all latest dermatological studies, which use omics (including multi-omics) and bioinformatics techniques.
 
-The scientific informatics department of my institute offers support for collecting the information source. I sincerely acknowledge their help.
+The scientific informatics department of my institute offers support for collecting literatures. I sincerely acknowledge their help.
