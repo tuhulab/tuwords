@@ -1,2 +1,2 @@
 # tuwords
-the repo for my blog ([tuwords](https://tuwords.netlify.app/))
+the repo for my blog tuwords (<https://tuwords.netlify.app/>)
