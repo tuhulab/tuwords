@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-# 中国华北 (Northern China)
+# 华北 (Northern China)
 
 ## 北京 (Beijing)
 首都风格：博采众家之长
