@@ -1,0 +1,64 @@
+---
+title: Chinese Food Tour
+author: Tu Hu
+date: '2020-09-10'
+slug: Chinese-food-tour
+categories: []
+tags: []
+---
+
+# 中国华北 (Northern China)
+
+## 北京 (Beijing)
+首都风格：博采众家之长
+
+### 峨眉酒家 (E'mei Restaurant)
+- 连锁店；王府井店（东城区金鱼胡同3号）
+- 特色：宫保鸡丁，峨眉川菜
+
+### 东北骨头锅
+- 中关村北大街19号
+
+# 西南 (Southwest)
+
+## 贵阳 (Guiyang, Guizhou)
+贵阳菜特点：结合川、渝、云南菜特色
+
+### 河边烧烤（Streetfood - riverside BBQ）
+- 花溪水库旁
+- 特色：70元自助烧烤，火炉烧烤
+- 阿星探店链接：[YouTube](https://youtu.be/RPZ4g28jtYg), 
+[Bilibili](https://www.bilibili.com/video/BV11C4y1b7Eo/)
+
+### 金阳餐厅 (Jinyang Restaurant)
+- 210国道旁（都匀路89号）
+- 特色：黔菜（素火锅、素火锅、紫花菌）
+- 阿星探店链接：[YouTube](https://www.youtube.com/watch?v=hJUj9qmh3Ic), 
+[Bilibili](https://www.bilibili.com/video/BV1VC4y187et?from=search&seid=17349043768405956215)
+
+## 成都 (Chengdu, Sichuan)
+自成一派之川菜
+
+### 萍果快餐 (Pingguo Buffet)
+- 人民公园 (People's Park)
+- 特色：12元自助餐不限量吃
+- 阿星探店链接：[YouTube](https://youtu.be/sol8k-_uwoE), 
+[Bilibili](https://www.bilibili.com/video/BV1DE411q7ZY/)
+
+# 华东 (Eastern China)
+
+## 南京 (Nanjing, Jiangsu)
+
+## 杭州 (Hangzhou, Zhejiang)
+
+## 绍兴 (Shaoxing, Zhejiang)
+
+### 安昌大酒店
+- 绍兴市柯桥区安华北路（0575-85655778）
+
+# 华南 (Southern China)
+
+## 基隆 (Keelung, Taiwan)
+
+### 三妈臭臭锅
+- 中正区812-5号
