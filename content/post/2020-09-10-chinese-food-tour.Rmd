@@ -13,11 +13,11 @@ tags: []
 首都风格：博采众家之长
 
 ### 峨眉酒家 (E'mei Restaurant)
-- 连锁店；王府井店（东城区金鱼胡同3号）
+- 连锁店；王府井店(东城区金鱼胡同3号；华尔道夫东五十米)
 - 特色：宫保鸡丁，峨眉川菜
 
 ### 东北骨头锅
-- 中关村北大街19号，靠近北京体育大学和圆明园
+- 中关村北大街19号(靠近北京体育大学和圆明园)
 - 特色：肉食主义者
 
 # 西南 (Southwest)
@@ -25,15 +25,15 @@ tags: []
 ## 贵阳 (Guiyang, Guizhou)
 贵阳菜特点：结合川、渝、云南菜特色
 
-### 河边烧烤（Streetfood - riverside BBQ）
+### 河边烧烤(Streetfood - riverside BBQ)
 - 花溪水库旁
 - 特色：70元自助烧烤，火炉烧烤
 - 阿星探店链接：[YouTube](https://youtu.be/RPZ4g28jtYg), 
 [Bilibili](https://www.bilibili.com/video/BV11C4y1b7Eo/)
 
 ### 金阳餐厅 (Jinyang Restaurant)
-- 210国道旁（都匀路89号）
-- 特色：黔菜（素火锅、素火锅、紫花菌）
+- 210国道旁(都匀路89号)
+- 特色：黔菜(素火锅、素火锅、紫花菌)
 - 阿星探店链接：[YouTube](https://www.youtube.com/watch?v=hJUj9qmh3Ic), 
 [Bilibili](https://www.bilibili.com/video/BV1VC4y187et?from=search&seid=17349043768405956215)
 
@@ -46,25 +46,41 @@ tags: []
 - 阿星探店链接：[YouTube](https://youtu.be/sol8k-_uwoE), 
 [Bilibili](https://www.bilibili.com/video/BV1DE411q7ZY/)
 
-# 华中 (Mid China)
-
-## 西安 (Xian, Shanxi)
-
-
 # 华东 (Eastern China)
 
 ## 南京 (Nanjing, Jiangsu)
 
+### 南京大排档
+- 连锁店；德基店(新街口中山路18号德基广场7层)
+- 特色：盐水鸭，美龄粥
+
 ## 杭州 (Hangzhou, Zhejiang)
+
+### 杭州酒家
+- 延安路205号1-3楼(0571-87087123)
+- 特色：杭帮菜，西湖醋鱼
 
 ## 绍兴 (Shaoxing, Zhejiang)
 
 ### 安昌大酒店
-- 绍兴市柯桥区安华北路（0575-85655778）
+- 柯桥区安华北路与下大线交叉口(0575-85655778)
+- 特色：烩三鲜
+
+## 黄山 (Huangshan, Anhui)
+
+### 得月楼
+- 月沼景区宏村中街86号 (0559-5541480)
+- 特色：红烧臭鳜鱼
 
 # 华南 (Southern China)
 
 ## 基隆 (Keelung, Taiwan)
 
 ### 三妈臭臭锅
-- 中正区812-5号
+- 连锁店；海大店（中正区812-5号）
+
+## 新北 (New Taipei City, Taiwan)
+
+### 阿婆寿司
+- 新北市莺歌区中正一路63号(+886226709345)
+- 特色：台湾风味寿司
