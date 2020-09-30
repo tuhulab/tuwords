@@ -1,0 +1,18 @@
+---
+title: "My quick tricks in R"
+author: "Tu Hu"
+date: '2020-09-30'
+slug: my-quick-tricks-in-r
+categories:
+- bioinformatics
+- tips
+tags: []
+---
+
+Check out my quick tricks in R:
+
+* [Enrichment analysis](https://gist.github.com/tuhulab/824ceaee766d2e3155fe02bf25566937)
+
+* [Cluster analysis](https://gist.github.com/tuhulab/c5e419b861533e5255d838f0816f58f6)
+
+* [Clean pseudo genes](https://gist.github.com/tuhulab/e6d0f69605b8ecd5a84c2693bd9c8218)
